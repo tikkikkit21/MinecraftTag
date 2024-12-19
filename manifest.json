@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Minecraft Tag",
+        "description": "Tag, you're it!",
+        "uuid": "42a1638d-30f8-4ae4-8591-71b4a71ab41e",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "idk",
+            "type": "data",
+            "uuid": "7bf7fcf7-7c18-4ddd-ae85-88f487379434",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
